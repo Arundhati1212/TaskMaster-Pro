@@ -15,7 +15,7 @@ TaskMaster Pro is more than just a project; it's a testament to my commitment to
 How to Install and Run the Project
 To run MealMate locally, follow these steps:
 1.	Clone the repository: git clone https://github.com/Arundhati1212/TaskMaster-Pro.git
-2.	Navigate to the project directory: cd mealmate 
+2.	Navigate to the project directory
 3.	Install dependencies: npm install 
 4.	Start the development server: npm run dev 
 The application should now be running on http://localhost:3000.
